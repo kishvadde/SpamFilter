@@ -4,7 +4,7 @@ from extract_feature import *			#import extrat_features funtion
 
 
 
-"""Calculate each feature probability in given label using naive base rule"""
+"""Calculate each feature probability in given label using naive bayes algorithm"""
 def feature_probability(classifier, feature, label,ap=1.0):        
     feature_count = classifier.feature_count[label][feature]    
     label_count = classifier.label_word_count[label]    
