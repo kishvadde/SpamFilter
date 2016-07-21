@@ -1,4 +1,4 @@
-This project includes email spam filter development using Naive Bayes Machine Learning technique.
+This project includes email spam filter development using Naive Bayes Machine Learning algorithm.
 Spam filter is implemented in python.
 
 To use this code it requires to get the spam and ham email content to train and test the classifier.
