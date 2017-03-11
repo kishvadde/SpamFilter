@@ -25,5 +25,5 @@ def train_data(classifier,corpus='C:\\Users\\Kishore\\spamfilter'):
 
 
 clss=classifier() 			#create classifier object               
-train_data(clss,) 			#pass the classifier to train_data to train
-trained_classifier=clss 	#assign trained classifier to trained_c
+train_data(clss,) 			#pass the classifier to train_data funtion
+trained_classifier=clss 	#assign trained classifier to trained_classifier
